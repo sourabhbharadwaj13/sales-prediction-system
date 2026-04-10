@@ -1,5 +1,7 @@
 
 # 📊 Sales Prediction System
+*Live Demo:*https://sales-prediction-system-go4xjvfqzvjuxjeebv7qs5.streamlit.app/
+
 
 ## 🚀 Project Overview
 The Sales Prediction System is a Machine Learning-based web application designed to analyze historical retail data and predict future sales.
@@ -55,8 +57,10 @@ sales-prediction-system/ │ ├── app.py
 Follow these steps to run the project locally:
 
 ### Step 1 — Clone the repository
-git clone https://github.com/your-username/sales-prediction-system.git⁠
+git clone https://github.com/sourabh bharadwaj/sales-prediction-system.git⁠
 ### Step 2 — Install dependencies
+pip install -r requirements.txt
+streamlit run app.py
 ### Step 3 — Run the application
 ---
 
@@ -69,7 +73,4 @@ git clone https://github.com/your-username/sales-prediction-system.git⁠
 
 ---
 
-## 👨‍💻 Author
 
-**Sourabh Bhardwaj**  
-B.Tech — Data Science / AI
