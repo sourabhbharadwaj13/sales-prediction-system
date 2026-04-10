@@ -50,7 +50,9 @@ project/
 ├── dataset.csv         # Sales dataset/
 
 ├── model.pkl           # Trained machine learning model/
+
 ├── requirements.txt    # Project dependencies/
+
 └── README.md           # Project documentation/
 
 ## ⚙️ Installation and Setup
