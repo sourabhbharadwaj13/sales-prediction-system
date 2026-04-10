@@ -46,11 +46,12 @@ The application provides an interactive dashboard where users can explore sales 
 ## 📂 Project Structure
 sales-prediction-system/ │ ├── app.py               
 project/
-├── app.py              # Main application file
-├── dataset.csv         # Sales dataset
-├── model.pkl           # Trained machine learning model
-├── requirements.txt    # Project dependencies
-└── README.md           # Project documentation
+
+├── dataset.csv         # Sales dataset/
+
+├── model.pkl           # Trained machine learning model/
+├── requirements.txt    # Project dependencies/
+└── README.md           # Project documentation/
 
 ## ⚙️ Installation and Setup
 
