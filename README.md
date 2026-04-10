@@ -42,3 +42,34 @@ The application provides an interactive dashboard where users can explore sales 
 ---
 
 ## 📂 Project Structure
+sales-prediction-system/ │ ├── app.py               
+# Main application file ├── dataset.csv          
+# Sales dataset ├── model.pkl             
+# Trained machine learning model ├── requirements.txt    
+# Project dependencies └── README.md            
+# Project documentation
+---
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally:
+
+### Step 1 — Clone the repository
+git clone https://github.com/your-username/sales-prediction-system.git⁠
+### Step 2 — Install dependencies
+### Step 3 — Run the application
+---
+
+## 📊 How It Works
+
+1. The system loads historical sales data.  
+2. Data is cleaned and preprocessed automatically.  
+3. A machine learning model is used to predict future sales.  
+4. Results are displayed on an interactive dashboard.  
+
+---
+
+## 👨‍💻 Author
+
+**Sourabh Bhardwaj**  
+B.Tech — Data Science / AI
