@@ -44,7 +44,8 @@ The application provides an interactive dashboard where users can explore sales 
 ---
 
 ## 📂 Project Structure
-sales-prediction-system/ │ ├── app.py               
+sales-prediction-system/ │ 
+├── app.py               
 project/
 
 ├── dataset.csv         # Sales dataset/
